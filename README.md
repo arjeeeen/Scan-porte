@@ -17,7 +17,7 @@ Il programma offre diverse funzionalità utili per l'analisi della rete, come la
     ```
     pip install -r requirements.txt
     ```
-3. Avvia lo script `Scanner_AVS.py`.
+3. Avvia lo script `Scan Porte ITA.py`.
 4. Segui le istruzioni visualizzate sul terminale per selezionare una delle opzioni disponibili.
 5. Inserisci gli indirizzi IP e le porte richieste per eseguire le scansioni desiderate.
 6. Segui le indicazioni per visualizzare i dispositivi sulla rete o le informazioni sulle porte aperte.
