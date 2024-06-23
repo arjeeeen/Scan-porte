@@ -1,0 +1,6 @@
+netifaces
+ipaddress
+scapy
+tqdm
+colorama
+keyboard
