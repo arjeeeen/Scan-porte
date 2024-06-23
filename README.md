@@ -27,7 +27,7 @@ Il programma offre diverse funzionalità utili per l'analisi della rete, come la
 
 > 📫 How to reach me:
 
-> Lo script è stato creato da Arjen e è disponibile su [www.mondohacking.com](www.mondohacking.com)
+> Lo script è stato creato da Arjen ed è disponibile su [www.mondohacking.com](www.mondohacking.com)
 
 [![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjen-van-zwam-aa0b93288/)
 [![Views](https://komarev.com/ghpvc/?username=arjeeeen&label=Repository+Views)](https://github.com/arjeeeen/Scan-porte)
