@@ -1,4 +1,6 @@
 # Scan Porte
+[![Banner](banner.jpg)][(https://github.com/ar
+](https://github.com/arjeeeen/Scan-porte/banner.jpg)
 
 ## Descrizione
 Lo script "Scan Porte" è un programma scritto in Python che consente di eseguire la scansione di una rete e individuare le porte aperte su un determinato indirizzo IP. 
