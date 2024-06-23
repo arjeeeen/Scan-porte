@@ -25,4 +25,6 @@ Il programma offre diverse funzionalità utili per l'analisi della rete, come la
 
 ## Crediti
 
-Lo script è stato creato da Arjen e è disponibile su [www.mondohacking.com](www.mondohacking.com).
+Lo script è stato creato da Arjen e è disponibile su [www.mondohacking.com](www.mondohacking.com)
+
+[![Views](https://komarev.com/ghpvc/?username=arjeeeen&label=Repository+Views)](https://github.com/arjeeeen/Scan-porte)
